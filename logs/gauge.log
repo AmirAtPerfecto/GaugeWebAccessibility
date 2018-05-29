@@ -1,0 +1,216 @@
+13:37:59.955 Plugin java is already installed.
+13:37:59.958 Plugin html-report is already installed.
+13:38:00.470 Checking updates...
+13:38:08.184 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+13:38:08.185 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:38:08.198 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+13:38:08.199 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+13:38:08.199 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+13:38:08.199 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+13:38:15.980 Plugin [Html Report] with pid [87024] has exited
+13:38:16.606 Specifications:	0 executed	0 passed	0 failed	0 skipped
+13:38:16.610 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+13:38:16.610 
+Total time taken: 3.99s
+14:09:17.883 Plugin java is already installed.
+14:09:17.886 Plugin html-report is already installed.
+14:09:18.396 Checking updates...
+14:09:19.330 Runner connection error: Runner with pid 87519 quit unexpectedly(exit status 1).
+14:09:19.330 Error while killing runner: os: process already finished
+14:09:19.331 Failed to start gauge API: Runner with pid 87519 quit unexpectedly(exit status 1).
+14:09:22.275 Plugin java is already installed.
+14:09:22.276 Plugin html-report is already installed.
+14:09:22.756 Checking updates...
+14:09:23.150 Runner connection error: Runner with pid 87523 quit unexpectedly(exit status 1).
+14:09:23.150 Error while killing runner: os: process already finished
+14:09:23.150 Failed to start gauge API: Runner with pid 87523 quit unexpectedly(exit status 1).
+14:10:39.099 Plugin java is already installed.
+14:10:39.100 Plugin html-report is already installed.
+14:10:39.495 Checking updates...
+14:10:40.869 Runner connection error: Runner with pid 87569 quit unexpectedly(exit status 1).
+14:10:40.869 Error while killing runner: os: process already finished
+14:10:40.870 Failed to start gauge API: Runner with pid 87569 quit unexpectedly(exit status 1).
+15:16:55.522 Plugin java is already installed.
+15:16:55.523 Plugin html-report is already installed.
+15:16:55.979 Checking updates...
+15:17:03.116 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+15:17:03.120 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+15:17:03.128 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+15:17:03.129 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+15:17:03.129 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+15:17:03.129 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+15:17:10.867 Plugin [Html Report] with pid [13746] has exited
+15:17:11.490 Specifications:	0 executed	0 passed	0 failed	0 skipped
+15:17:11.490 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+15:17:11.490 
+Total time taken: 4.72s
+15:17:54.252 Plugin java is already installed.
+15:17:54.252 Plugin html-report is already installed.
+15:17:54.628 Checking updates...
+15:18:00.567 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+15:18:00.569 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+15:18:00.581 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+15:18:00.581 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+15:18:00.582 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+15:18:00.582 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+15:18:07.928 Plugin [Html Report] with pid [13766] has exited
+15:18:08.547 Specifications:	0 executed	0 passed	0 failed	0 skipped
+15:18:08.547 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+15:18:08.547 
+Total time taken: 4.286s
+15:21:28.638 Plugin java is already installed.
+15:21:28.639 Plugin html-report is already installed.
+15:21:29.021 Checking updates...
+15:21:35.942 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+15:21:35.943 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+15:21:35.955 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+15:21:35.955 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+15:21:35.956 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+15:21:35.956 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+15:21:48.339 Plugin [Html Report] with pid [13822] has exited
+15:21:48.549 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:21:48.549 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:21:48.549 
+Total time taken: 9.09s
+15:31:55.441 Plugin java is already installed.
+15:31:55.442 Plugin html-report is already installed.
+15:31:55.972 Checking updates...
+15:32:02.165 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+15:32:02.165 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+15:32:02.174 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+15:32:02.175 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+15:32:02.175 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+15:32:02.176 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+15:32:15.197 Plugin [Html Report] with pid [14311] has exited
+15:32:15.407 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:32:15.408 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:32:15.408 
+Total time taken: 9.499s
+16:27:16.182 Plugin java is already installed.
+16:27:16.183 Plugin html-report is already installed.
+16:27:16.700 Checking updates...
+16:27:24.184 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+16:27:24.185 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+16:27:24.212 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+16:27:24.212 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+16:27:24.213 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"I check window for accessibility <term>" > 
+16:27:24.213 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"I check window for accessibility {}" parameterizedStepValue:"I check window for accessibility <term>" parameters:"term" > > 
+16:27:24.216 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+16:27:24.216 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+16:27:56.467 Plugin [Html Report] with pid [15994] has exited
+16:27:56.984 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:27:56.985 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:27:56.985 
+Total time taken: 29.069s
+16:31:31.726 Plugin java is already installed.
+16:31:31.727 Plugin html-report is already installed.
+16:31:32.112 Checking updates...
+16:31:38.238 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+16:31:38.240 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+16:31:38.255 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+16:31:38.255 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+16:31:38.256 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"I check window for accessibility <term>" > 
+16:31:38.256 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"I check window for accessibility {}" parameterizedStepValue:"I check window for accessibility <term>" parameters:"term" > > 
+16:31:38.258 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+16:31:38.258 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+16:32:09.320 Plugin [Html Report] with pid [16176] has exited
+16:32:09.950 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:32:09.950 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:32:09.951 
+Total time taken: 27.204s
+16:40:19.045 Plugin java is already installed.
+16:40:19.047 Plugin html-report is already installed.
+16:40:19.801 Checking updates...
+16:40:25.295 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+16:40:25.296 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+16:40:25.309 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+16:40:25.309 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+16:40:25.310 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"I check window for accessibility <term>" > 
+16:40:25.310 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"I check window for accessibility {}" parameterizedStepValue:"I check window for accessibility <term>" parameters:"term" > > 
+16:40:25.311 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+16:40:25.311 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+16:40:41.308 Plugin [Html Report] with pid [16446] has exited
+16:40:41.518 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:40:41.518 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:40:41.518 
+Total time taken: 12.902s
+16:55:33.587 Plugin java is already installed.
+16:55:33.588 Plugin html-report is already installed.
+16:55:34.040 Checking updates...
+16:55:46.829 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+16:55:46.830 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+16:55:46.848 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+16:55:46.848 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+16:55:46.848 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"I check window for accessibility <term>" > 
+16:55:46.849 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"I check window for accessibility {}" parameterizedStepValue:"I check window for accessibility <term>" parameters:"term" > > 
+16:55:46.850 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+16:55:46.850 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+16:57:34.799 Plugin [Html Report] with pid [17094] has exited
+16:57:34.903 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:57:34.904 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:57:34.904 
+Total time taken: 1m44.724s
+17:00:19.606 Plugin java is already installed.
+17:00:19.608 Plugin html-report is already installed.
+17:00:20.019 Checking updates...
+17:00:25.914 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+17:00:25.914 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+17:00:25.924 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+17:00:25.924 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+17:00:25.924 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"I check window for accessibility <term>" > 
+17:00:25.925 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"I check window for accessibility {}" parameterizedStepValue:"I check window for accessibility <term>" parameters:"term" > > 
+17:00:25.925 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+17:00:25.926 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+17:00:45.414 Plugin [Html Report] with pid [17205] has exited
+17:00:45.622 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:00:45.630 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17:00:45.630 
+Total time taken: 16.904s
+17:07:01.024 Plugin java is already installed.
+17:07:01.025 Plugin html-report is already installed.
+17:07:01.578 Checking updates...
+17:07:06.522 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+17:07:06.522 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+17:07:06.531 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+17:07:06.531 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+17:07:06.532 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"I check window for accessibility <term>" > 
+17:07:06.532 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"I check window for accessibility {}" parameterizedStepValue:"I check window for accessibility <term>" parameters:"term" > > 
+17:07:06.533 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+17:07:06.533 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+17:07:24.730 Plugin [Html Report] with pid [17357] has exited
+17:07:24.938 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:07:24.938 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17:07:24.938 
+Total time taken: 15.017s
+17:10:26.319 Plugin java is already installed.
+17:10:26.321 Plugin html-report is already installed.
+17:10:26.801 Checking updates...
+17:10:37.049 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+17:10:37.050 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+17:10:37.061 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+17:10:37.061 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+17:10:37.061 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"I check window for accessibility <term>" > 
+17:10:37.062 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"I check window for accessibility {}" parameterizedStepValue:"I check window for accessibility <term>" parameters:"term" > > 
+17:10:37.063 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+17:10:37.063 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+17:11:04.076 Plugin [Html Report] with pid [17665] has exited
+17:11:04.283 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:11:04.283 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17:11:04.283 
+Total time taken: 24.074s
+17:11:50.809 Plugin java is already installed.
+17:11:50.810 Plugin html-report is already installed.
+17:11:51.447 Checking updates...
+17:11:57.222 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+17:11:57.223 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+17:11:57.232 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+17:11:57.232 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+17:11:57.232 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"I check window for accessibility <term>" > 
+17:11:57.232 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"I check window for accessibility {}" parameterizedStepValue:"I check window for accessibility <term>" parameters:"term" > > 
+17:11:57.234 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+17:11:57.234 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+17:12:13.865 Plugin [Html Report] with pid [17721] has exited
+17:12:14.071 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:12:14.072 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17:12:14.072 
+Total time taken: 13.487s

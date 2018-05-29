@@ -1,0 +1,10 @@
+{
+	"Command": [
+		"/usr/local/bin/gauge",
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console",
+		"/Users/Amir-Perfecto 1/Documents/workspace/GaugeWebAccessibility/specs/example.spec"
+	]
+}
