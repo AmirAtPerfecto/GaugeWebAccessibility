@@ -12,7 +12,7 @@ Also screenshots with highlighted accessibility violations at reports/html-repor
 The console will list all errors, their severity and details how to fix:
 **Accessibility scan found 3 violations in 5 objects**
 
-**Error 1**
+**Error 1**\
 **Impact: serious**
 **Rule ID: color-contrast**
 **Summary: Fix any of the following:**
