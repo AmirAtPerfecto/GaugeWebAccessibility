@@ -1,5 +1,6 @@
 package AXE;
 
+import com.thoughtworks.gauge.Gauge;
 import com.thoughtworks.gauge.Step;
 import driver.Driver;
 import org.apache.commons.io.FileUtils;
@@ -39,6 +40,7 @@ public class AXEImplementation {
             int objects = 0;
             for (AxeTestResult t:violations) { objects = objects + t.nodes.size();}
             String s = System.lineSeparator() + "Accessibility scan found "+ violations.size() + " violations in " + objects + " objects";
+            Gauge.writeMessage(s);
             System.out.println(s);
         }
         final StringBuilder errors = new StringBuilder();
@@ -73,6 +75,7 @@ public class AXEImplementation {
                         violations.get(violationsCount).tags.toString());
 
                 System.out.println("Error "+ errorCount +System.lineSeparator()+reportMessageComplete.replace(";;;",System.lineSeparator()));
+                Gauge.writeMessage("Error "+ errorCount +System.lineSeparator()+reportMessageComplete.replace(";;;",System.lineSeparator()));
             } catch (Exception e) {
                 e.printStackTrace();
                 System.out.println(reportMessage);
